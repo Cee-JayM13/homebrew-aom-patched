@@ -1,4 +1,4 @@
-# Cee-jaym13 Aom-patched
+# Cee-JayM13 aom-patched
 
 ## How do I install these formulae?
 
