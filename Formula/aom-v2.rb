@@ -1,4 +1,4 @@
-class aomv2 < Formula
+class aompatched < Formula
   desc "Codec library for encoding and decoding AV1 video streams"
   homepage "https://aomedia.googlesource.com/aom"
   license "BSD-2-Clause"
